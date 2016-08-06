@@ -2,7 +2,7 @@
 
 
 
-var url="https://webhose.io/search?token=e7c28e93-dbaa-4d6f-98c6-e36072647787&format=json&q=india"
+var url="https://webhose.io/search?token=#&format=json&q=india"
 
 $.getJSON(url,function gotData(object){
 	     
