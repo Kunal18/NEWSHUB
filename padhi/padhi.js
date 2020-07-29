@@ -27,7 +27,7 @@ $.getJSON(url,function gotData(object){
 	})
 /*var url = "https://api.nytimes.com/svc/topstories/v1/politics.json";
 url += '?' + $.param({
-  'api-key': "f5842c5cb7c545138a9c27d0db94a874"
+  'api-key': "#"
 
 });
 $.getJSON(url,function gotData(object){
